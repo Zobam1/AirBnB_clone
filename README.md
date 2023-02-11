@@ -1,4 +1,5 @@
 PROJECT DESCRIPTION:
+
 This is a team project for a complete web application: integrating database storage, HTML/CSS templating, API, front-end, etc.
 
 The project is part of the ALX School Software Engineering program which focuses on the first step towards building a full web application: the AirBnB clone.
@@ -12,6 +13,7 @@ This first step consists of:
 
 
 COMMAND LINE INTERPRETER:
+
 This is a shell-like console but for specific usage.
 
 How To Start: ./console.py
